@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on RAG Technology<br>👯 I’m looking to collaborate on NLP & ML <br>💬 Ask me about<br>
+🔭 I’m currently working on RAG Technology<br>👯 I’m looking to collaborate on NLP & ML <br>💬 Ask me About<br>
 
 
 ## 🌐 Socials:
